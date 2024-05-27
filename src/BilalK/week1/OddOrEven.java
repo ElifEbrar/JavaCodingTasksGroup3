@@ -1,20 +1,20 @@
 package BilalK.week1;
 
-import java.util.Arrays;
+
 
 public class OddOrEven {
     public static void main(String[] args) {
 
-        int num1= 10;
-        int num2= 12;
+        int num1= 5;
+        int num2= 6;
 
-        OddOrEven(num1);
-        OddOrEven(num2);
+        oddOrEven(num1);
+        oddOrEven(num2);
 
 
 }
 
-public static void OddOrEven(int num) {
+public static void oddOrEven(int num) {
 
     if(num%2==0){
         System.out.println("identify(" + num+");->" + "Even");
