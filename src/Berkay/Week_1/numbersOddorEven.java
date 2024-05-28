@@ -4,6 +4,8 @@ public class numbersOddorEven {
     public static void main(String[] args) {
 
         System.out.println(oddorEven(23));
+        String sonuc= oddorEven(24);
+        System.out.println("sonuc = " + sonuc);
 
     }
 
