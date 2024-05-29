@@ -10,6 +10,7 @@ public class DivideTwoNums {
     divideMethod(a, b);
 
     }
+
 public static void divideMethod(int a, int b) {
 
   System.out.println(Math.floorDiv(a,b));
