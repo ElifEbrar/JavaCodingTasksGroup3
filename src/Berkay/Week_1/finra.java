@@ -2,7 +2,6 @@ package Berkay.Week_1;
 
 public class finra {
     public static void main(String[] args) {
-        //hello
 
         for (int i = 1; i <31 ; i++) {
             if (i%15==0){

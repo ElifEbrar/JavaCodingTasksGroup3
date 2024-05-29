@@ -2,7 +2,6 @@ package Berkay.Week_1;
 
 public class numbersOddorEven {
     public static void main(String[] args) {
-        //hello
 
         System.out.println(oddorEven(23));
         String sonuc= oddorEven(24);
