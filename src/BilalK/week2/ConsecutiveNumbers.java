@@ -21,7 +21,9 @@ public class ConsecutiveNumbers {
         printConsecutiveNumbers(15);
 
         System.out.println("--------------------------------------Method2------------------------------");
+
         method2(15);
+
     }
 
     public static void printConsecutiveNumbers(int N1) {
