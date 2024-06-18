@@ -10,8 +10,11 @@ public class OddOrEven {
     }
     
     static String identify(int num) {
+        
         String result = "";
+        
         return num % 2 == 0 ? result = "Even" : "Odd";
+        
     }
     
 }

@@ -1,5 +1,4 @@
-📌 Java Coding Tasks - Week 3 📌 
-@student 
+📌 Java Coding Tasks - Week 3 📌
 
 1️⃣ Numbers - PrimeNumber
 Write a method that can check if a number is prime or not
