@@ -1,10 +1,7 @@
-package Ensar.week1;
+package Yakup.week1;
 
 public class reverseString {
     public static void main(String[] args) {
-        //reverse string
-
-
 
     }
 }
