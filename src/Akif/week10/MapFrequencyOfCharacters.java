@@ -15,4 +15,4 @@ public class MapFrequencyOfCharacters {
 
         freqMap.forEach((k, v) -> System.out.println(k + ": " + v));
     }
-}
+}//Write a method that prints the frequency of each character from a String.
